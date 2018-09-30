@@ -1,0 +1,68 @@
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Remaining 991 password hashes with 991 different salts
+0:00:00:00 - Hash type: md5crypt (lengths up to 15)
+0:00:00:00 - Algorithm: MD5 32/64 X2
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 2
+0:00:00:00 - Configured to use otherwise idle processor cycles only
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: kmcginle.hashes
+0:00:00:00 - 57 preprocessed word mangling rules
+0:00:00:00 - Rule #1: ':' accepted as ''
+0:00:01:15 - Rule #2: '-c >3 !?X l Q' accepted as '>3!?XlQ'
+0:00:01:15 - Rule #3: '-c (?a >2 !?X c Q' accepted as '(?a>2!?XcQ'
+0:00:01:15 - Rule #4: '<* >2 !?A l p' accepted as '<*>2!?Alp'
+0:00:01:15 - Rule #5: '<* >2 !?A l $1' accepted as '<*>2!?Al$1'
+0:00:01:15 - Rule #6: '-c <* >2 !?A c $1' accepted as '<*>2!?Ac$1'
+0:00:01:15 - Rule #7: '<7 >1 !?A l d' accepted as '<7>1!?Ald'
+0:00:01:15 - Rule #8: '>3 !?A l M r Q' accepted as '>3!?AlMrQ'
+0:00:01:15 - Rule #9: '>2 !?A l ^1' accepted as '>2!?Al^1'
+0:00:01:15 - Rule #10: '-c >2 !?X u Q M c Q u' accepted as '>2!?XuQMcQu'
+0:00:01:15 - Rule #11: '<* >2 !?A l $2' accepted as '<*>2!?Al$2'
+0:00:01:15 - Rule #12: '<* >2 !?A l $!' accepted as '<*>2!?Al$!'
+0:00:01:15 - Rule #13: '<* >2 !?A l $3' accepted as '<*>2!?Al$3'
+0:00:01:15 - Rule #14: '<* >2 !?A l $7' accepted as '<*>2!?Al$7'
+0:00:01:15 - Rule #15: '<* >2 !?A l $9' accepted as '<*>2!?Al$9'
+0:00:01:15 - Rule #16: '<* >2 !?A l $5' accepted as '<*>2!?Al$5'
+0:00:01:15 - Rule #17: '<* >2 !?A l $4' accepted as '<*>2!?Al$4'
+0:00:01:15 - Rule #18: '<* >2 !?A l $8' accepted as '<*>2!?Al$8'
+0:00:01:15 - Rule #19: '<* >2 !?A l $6' accepted as '<*>2!?Al$6'
+0:00:01:15 - Rule #20: '<* >2 !?A l $0' accepted as '<*>2!?Al$0'
+0:00:01:15 - Rule #21: '<* >2 !?A l $.' accepted as '<*>2!?Al$.'
+0:00:01:15 - Rule #22: '<* >2 !?A l $?' accepted as '<*>2!?Al$?'
+0:00:01:15 - Rule #23: '/?p @?p >3 l' accepted as '/?p@?p>3l'
+0:00:01:53 - Rule #24: '/?v @?v >3 l' accepted as '/?v@?v>3l'
+0:00:03:08 - Rule #25: '/?w @?w >3 l' accepted as '/?w@?w>3l'
+0:00:03:08 - Rule #26: '-c <7 >1 !?A c d' accepted as '<7>1!?Acd'
+0:00:03:08 - Rule #27: '-c <+ >2 !?A c r' accepted as '<+>2!?Acr'
+0:00:03:08 - Rule #28: '-c >2 !?A l M r Q c' accepted as '>2!?AlMrQc'
+0:00:03:08 - Rule #29: '<7 >1 !?A l d M 'l f Q' accepted as '<7>1!?AldM'lfQ'
+0:00:03:08 - Rule #30: '-c <+ >2 !?A l M r Q c r' accepted as '<+>2!?AlMrQcr'
+0:00:03:08 - Rule #31: '>2 !?A l ^2' accepted as '>2!?Al^2'
+0:00:03:08 - Rule #32: '>2 !?A l ^4' accepted as '>2!?Al^4'
+0:00:03:08 - Rule #33: '-c <* >2 !?A c $2' accepted as '<*>2!?Ac$2'
+0:00:03:08 - Rule #34: '-c <* >2 !?A c $!' accepted as '<*>2!?Ac$!'
+0:00:03:08 - Rule #35: '-c <* >2 !?A c $3' accepted as '<*>2!?Ac$3'
+0:00:03:08 - Rule #36: '-c <* >2 !?A c $9' accepted as '<*>2!?Ac$9'
+0:00:03:08 - Rule #37: '-c <* >2 !?A c $5' accepted as '<*>2!?Ac$5'
+0:00:03:08 - Rule #38: '-c <* >2 !?A c $7' accepted as '<*>2!?Ac$7'
+0:00:03:08 - Rule #39: '-c <* >2 !?A c $4' accepted as '<*>2!?Ac$4'
+0:00:03:08 - Rule #40: '-c <* >2 !?A c $6' accepted as '<*>2!?Ac$6'
+0:00:03:08 - Rule #41: '-c <* >2 !?A c $8' accepted as '<*>2!?Ac$8'
+0:00:03:08 - Rule #42: '-c <* >2 !?A c $.' accepted as '<*>2!?Ac$.'
+0:00:03:08 - Rule #43: '-c <* >2 !?A c $?' accepted as '<*>2!?Ac$?'
+0:00:03:08 - Rule #44: '-c <* >2 !?A c $0' accepted as '<*>2!?Ac$0'
+0:00:03:08 - Rule #45: '>2 !?A l ^3' accepted as '>2!?Al^3'
+0:00:03:08 - Rule #46: '>2 !?A l ^7' accepted as '>2!?Al^7'
+0:00:03:08 - Rule #47: '>2 !?A l ^9' accepted as '>2!?Al^9'
+0:00:03:08 - Rule #48: '>2 !?A l ^5' accepted as '>2!?Al^5'
+0:00:03:08 - Rule #49: '>2 !?A l ^6' accepted as '>2!?Al^6'
+0:00:03:08 - Rule #50: '>2 !?A l ^8' accepted as '>2!?Al^8'
+0:00:03:08 - Rule #51: '-c <* >2 !?A c p' accepted as '<*>2!?Acp'
+0:00:03:08 - Rule #52: '-: <* >2 !?A l M P Q' accepted as '<*>2!?AlMPQ'
+0:00:03:08 - Rule #53: '-: <* >2 !?A l M I Q' accepted as '<*>2!?AlMIQ'
+0:00:03:08 - Rule #54: '-c <* >2 !?A c M P Q' accepted as '<*>2!?AcMPQ'
+0:00:03:08 - Rule #55: '-c <* >2 !?A c M I Q' accepted as '<*>2!?AcMIQ'
+0:00:03:08 - Rule #56: '-s x**' rejected
+0:00:03:08 - Rule #57: '-s-c x** M l Q' rejected
+0:00:03:08 Session completed
